@@ -1,0 +1,25 @@
+.label {
+  color: white;
+}
+
+.form-check {
+  display: flex;
+  align-items: center;
+}
+
+.form-check-label {
+  color: white;
+  font-family: roboto;
+  font-size: 25px;
+}
+
+.form-check-input {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.formList {
+  display: flex;
+  flex-direction: column;
+}
